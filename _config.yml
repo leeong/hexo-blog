@@ -68,7 +68,7 @@ widgets:
 - recent-posts
 - archive
 - category
-- friends-blog
+#- friends-blog
 
 # widget behavior
 ## Archive
@@ -82,21 +82,21 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 
 
 ## Friends
-friends: [
-    {
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Kaijun's Blog",
-        href: "http://blog.kaijun.rocks"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "It Helps SEO",
-        href: "#"
-    }
-]
+#friends: [
+#    {
+#        title: "Bean Tech",
+#        href: "http://beantech.org"
+#    },{
+#        title: "Kaijun's Blog",
+#        href: "http://blog.kaijun.rocks"
+#    },{
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },{
+#        title: "It Helps SEO",
+#        href: "#"
+#    }
+#]
 
 
 #Custom Setting End
@@ -185,16 +185,8 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/YenYuHsuan/hexo-theme-beantech.git
-  branch: gh-page
-
-
-
-
-
-
-
-
-
-
-
+  name: leeong
+  email: 9387524@gmail.com
+  repo: https://github.com/leeong/leeong.github.com.git
+  branch: master
+  message:
