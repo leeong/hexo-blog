@@ -1,5 +1,6 @@
 ---
 title: 升级到MySQL8.0使用中遇到的问题汇总
+header-img: "header.jpg"
 date: 2018-06-25 14:51:34
 tags:
  - MySQL

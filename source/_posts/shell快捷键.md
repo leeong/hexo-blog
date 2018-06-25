@@ -1,5 +1,6 @@
 ---
 title: shell快捷键
+header-img: "header.jpg"
 date: 2016-05-26 14:26:06
 categories:
  - OS

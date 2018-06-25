@@ -1,5 +1,6 @@
 ---
 title: linux文件查找命令locate
+header-img: "header.jpg"
 date: 2016-05-30 10:38:53
 categories:
  - OS

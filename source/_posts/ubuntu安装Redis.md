@@ -1,5 +1,6 @@
 ---
 title: ubuntu安装Redis
+header-img: "header.jpg"
 date: 2016-06-13 16:29:42
 tags:
  - Redis

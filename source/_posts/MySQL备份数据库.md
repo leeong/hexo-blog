@@ -1,5 +1,6 @@
 ---
 title: MySQL备份数据库
+header-img: "header.jpg"
 date: 2016-05-20 14:40:54
 tags:
  - MySQL

@@ -1,5 +1,6 @@
 ---
 title: 在linux上使用less查看文件
+header-img: "header.jpg"
 date: 2016-05-27 15:12:19
 categories:
  - OS

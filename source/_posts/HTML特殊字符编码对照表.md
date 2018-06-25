@@ -1,5 +1,6 @@
 ---
 title: HTML特殊字符编码对照表
+header-img: "header.jpg"
 date: 2017-09-16 19:20:39
 categories:
  - HTML

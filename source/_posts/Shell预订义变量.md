@@ -1,5 +1,6 @@
 ---
 title: Shell预订义变量
+header-img: "header.jpg"
 date: 2016-06-27 10:23:21
 categories:
  - OS

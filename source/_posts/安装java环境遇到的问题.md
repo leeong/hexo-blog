@@ -1,5 +1,6 @@
 ---
 title: 安装java环境遇到的问题
+header-img: "header.jpg"
 date: 2018-03-26 20:13:56
 categories:
  - Tool

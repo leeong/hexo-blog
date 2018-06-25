@@ -1,5 +1,6 @@
 ---
 title: 'Javascript读书笔记(一)——Math,Date,String,RegExp函数'
+header-img: "header.jpg"
 date: 2016-05-21 23:32:57
 categories:
  - Javascript

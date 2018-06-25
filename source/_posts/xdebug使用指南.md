@@ -1,5 +1,6 @@
 ---
 title: xdebug使用指南
+header-img: "header.jpg"
 date: 2016-06-17 10:45:27
 categories:
  - PHP

@@ -1,5 +1,6 @@
 ---
 title: Javascript变量类型转换
+header-img: "header.jpg"
 date: 2016-05-26 20:10:36
 categories:
  - Javascript

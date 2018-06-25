@@ -1,5 +1,6 @@
 ---
 title: shell特性之通配符
+header-img: "header.jpg"
 date: 2016-05-25 15:12:58
 categories:
  - OS

@@ -1,5 +1,6 @@
 ---
 title: linux压缩和备份命令
+header-img: "header.jpg"
 date: 2016-05-31 10:14:55
 categories:
  - OS

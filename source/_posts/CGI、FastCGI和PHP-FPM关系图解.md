@@ -1,5 +1,6 @@
 ---
 title: CGI、FastCGI和PHP-FPM关系图解
+header-img: "header.jpg"
 date: 2018-03-18 20:31:27
 categories:
  - Others

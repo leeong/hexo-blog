@@ -1,5 +1,6 @@
 ---
 title: PHP导出CSV文件的编码BUG
+header-img: "header.jpg"
 date: 2016-08-04 16:38:34
 categories:
  - PHP

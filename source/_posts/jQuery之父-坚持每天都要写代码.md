@@ -1,5 +1,6 @@
 ---
 title: 'jQuery之父:坚持每天都要写代码'
+header-img: "header.jpg"
 date: 2017-09-16 23:58:50
 categories:
  - excerpt

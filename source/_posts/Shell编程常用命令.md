@@ -1,5 +1,6 @@
 ---
 title: Shell编程常用命令
+header-img: "header.jpg"
 date: 2016-06-27 11:23:21
 categories:
  - OS
