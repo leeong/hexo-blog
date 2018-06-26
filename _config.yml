@@ -16,6 +16,7 @@ timezone: Asia/Shanghai
 header-img: img/header_img/home-bg-2-dark.jpg
 signature: false #show signature
 signature-img: img/signature/BeanTechSign-white.png
+share-img: img/favicon.png #文章页的分享图
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

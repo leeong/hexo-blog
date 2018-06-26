@@ -11,7 +11,7 @@ categories:
 
 ### Every thing is new 
  
-新装的主机当然什么都要用最新的, `Ubuntu18.08`, `php7.2`, `MySQL8.0`
+新装的主机当然什么都要用最新的, `Ubuntu18.04`, `php7.2`, `MySQL8.0`
 `MySQL8.0`性能较`5.x`的版本还是有很大提升的，尤其是`NoSQL`的支持也值得一试
 本文记录的就是这个`MySQL8.0`踩的坑
 
